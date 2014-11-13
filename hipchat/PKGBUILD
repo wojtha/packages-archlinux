@@ -9,7 +9,7 @@
 
 pkgname=hipchat
 pkgver=2.2.1270
-pkgrel=1
+pkgrel=2
 pkgdesc="Persistent group chat using XMPP"
 arch=('i686' 'x86_64')
 url="https://www.hipchat.com/linux"
